@@ -1,8 +1,8 @@
 def speak_to_grandma(words)
-  if #{words} == #{words}.upcase
+  if words == words.upcase
   then puts "NO, NOT SINCE 1938!"
   
-elsif #{words} == "I LOVE YOU GRANDMA!"
+elsif words == "I LOVE YOU GRANDMA!"
   
   then puts "I LOVE YOU TOO PUPKIN!"
   
