@@ -9,8 +9,9 @@ elsif speak_to_grandma == "I LOVE YOU GRANDMA!"
 else
    puts "HUH?! SPEAK UP, SONNY!"
 
-end  # Write a speak_to_grandma method.
-
+end 
+# Write a speak_to_grandma method.
+end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
