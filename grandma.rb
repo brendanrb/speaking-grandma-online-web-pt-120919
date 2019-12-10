@@ -1,4 +1,4 @@
-def speak_to_grandma
+def speak_to_grandma(words)
   if speak_to_grandma == speak_to_grandma.upcase
   puts "NO, NOT SINCE 1938!"
   
